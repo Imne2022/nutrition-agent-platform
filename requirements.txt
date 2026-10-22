@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pgvector
+pymupdf
+sentence-transformers
+langgraph
+langchain-core
+openai
+python-dotenv
+reportlab
+streamlit
+requests
+pytest
+httpx
